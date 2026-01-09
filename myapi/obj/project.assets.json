@@ -461,19 +461,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/nicolasgonzaba/.nuget/packages/": {}
+    "/Users/brandonestrada/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNMC#5-MiniChallengeFiveToSeven/myapi/myapi.csproj",
+      "projectUniqueName": "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/myapi.csproj",
       "projectName": "myapi",
-      "projectPath": "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNMC#5-MiniChallengeFiveToSeven/myapi/myapi.csproj",
-      "packagesPath": "/Users/nicolasgonzaba/.nuget/packages/",
-      "outputPath": "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNMC#5-MiniChallengeFiveToSeven/myapi/obj/",
+      "projectPath": "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/myapi.csproj",
+      "packagesPath": "/Users/brandonestrada/.nuget/packages/",
+      "outputPath": "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nicolasgonzaba/.nuget/NuGet/NuGet.Config"
+        "/Users/brandonestrada/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -540,7 +540,7 @@
       "code": "NU1900",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/nicolasgonzaba/.local/share/NuGet/http-cache/670c1461c29885f9aa22c281d8b7da90845b38e4$ps:_api.nuget.org_v3_index.json/vuln_index.dat-new' is denied."
+      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/brandonestrada/.local/share/NuGet/http-cache/670c1461c29885f9aa22c281d8b7da90845b38e4$ps:_api.nuget.org_v3_index.json/vuln_index.dat-new' is denied."
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNMC#5-MiniChallengeFiveToSeven/myapi/myapi.csproj": {}
+    "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/myapi.csproj": {}
   },
   "projects": {
-    "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNMC#5-MiniChallengeFiveToSeven/myapi/myapi.csproj": {
+    "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/myapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNMC#5-MiniChallengeFiveToSeven/myapi/myapi.csproj",
+        "projectUniqueName": "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/myapi.csproj",
         "projectName": "myapi",
-        "projectPath": "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNMC#5-MiniChallengeFiveToSeven/myapi/myapi.csproj",
-        "packagesPath": "/Users/nicolasgonzaba/.nuget/packages/",
-        "outputPath": "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNMC#5-MiniChallengeFiveToSeven/myapi/obj/",
+        "projectPath": "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/myapi.csproj",
+        "packagesPath": "/Users/brandonestrada/.nuget/packages/",
+        "outputPath": "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nicolasgonzaba/.nuget/NuGet/NuGet.Config"
+          "/Users/brandonestrada/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"

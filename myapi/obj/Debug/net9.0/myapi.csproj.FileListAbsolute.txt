@@ -33,3 +33,39 @@
 /Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNMC#5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/myapi.pdb
 /Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNMC#5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/myapi.genruntimeconfig.cache
 /Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNMC#5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/ref/myapi.dll
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/bin/Debug/net9.0/appsettings.Development.json
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/bin/Debug/net9.0/appsettings.json
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/bin/Debug/net9.0/myapi.staticwebassets.endpoints.json
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/bin/Debug/net9.0/myapi
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/bin/Debug/net9.0/myapi.deps.json
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/bin/Debug/net9.0/myapi.runtimeconfig.json
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/bin/Debug/net9.0/myapi.dll
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/bin/Debug/net9.0/myapi.pdb
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/myapi.csproj.AssemblyReference.cache
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/myapi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/myapi.AssemblyInfoInputs.cache
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/myapi.AssemblyInfo.cs
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/myapi.csproj.CoreCompileInputs.cache
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/myapi.MvcApplicationPartsAssemblyInfo.cs
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/myapi.MvcApplicationPartsAssemblyInfo.cache
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/myapi.sourcelink.json
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/scopedcss/bundle/myapi.styles.css
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/staticwebassets.build.json
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/staticwebassets.development.json
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/myapi.csproj.Up2Date
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/myapi.dll
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/refint/myapi.dll
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/myapi.pdb
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/myapi.genruntimeconfig.cache
+/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/GonzabaNMC-5-MiniChallengeFiveToSeven/myapi/obj/Debug/net9.0/ref/myapi.dll
